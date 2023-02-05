@@ -1,0 +1,5 @@
+C:\Users\dell\Lectures\Add Multiple Person\Add Multiple Persom\Add Multiple Persom\obj\Debug\netcoreapp3.1\Add Multiple Persom.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\Add Multiple Person\Add Multiple Persom\Add Multiple Persom\obj\Debug\netcoreapp3.1\Add Multiple Persom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\Add Multiple Person\Add Multiple Persom\Add Multiple Persom\obj\Debug\netcoreapp3.1\Add Multiple Persom.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\Add Multiple Person\Add Multiple Persom\Add Multiple Persom\obj\Debug\netcoreapp3.1\Add Multiple Persom.AssemblyInfo.cs
+C:\Users\dell\Lectures\Add Multiple Person\Add Multiple Persom\Add Multiple Persom\obj\Debug\netcoreapp3.1\Add Multiple Persom.csproj.CoreCompileInputs.cache
